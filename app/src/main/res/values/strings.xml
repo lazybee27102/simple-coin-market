@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SIMPLE COIN MARKET</string>
+    <string name="content_no">No .</string>
+    <string name="content_name">Name</string>
+    <string name="price">Price</string>
+    <string name="content_changed">24h</string>
+
+    <string name="error_no_data">There\'s no data to show right now</string>
+    <string name="error_unknown_host">Sorry we can\'t connect with the Host</string>
+    <string name="error_socket_timeout">Oops, your session has expired.</string>
+    <string name="error_no_internet">Oops.. No internet connection.</string>
+    <string name="error_common">Something went wrong. Please try again later.</string>
+</resources>
